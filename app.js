@@ -1,4 +1,4 @@
-const app=Vue.createApp({
-    template: '<h2>Vue CDN Link</h2>'
+const app = Vue.createApp({
+    template: '<h2> Vue CDN Link</h2>'
 });
-app.mount('#app')
+app.mount('#app1')
